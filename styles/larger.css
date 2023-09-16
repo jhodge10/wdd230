@@ -1,0 +1,26 @@
+@media screen and (min-width: 600px) {
+    .logo {
+      width: 80px;
+      padding: 16px 14px;
+    }
+  
+    h1 {
+      font-size: 1.5rem;
+    }
+  
+    #coursetitle {
+      display: inline;
+    }
+  }
+  
+  @media screen and (min-width: 640px) {
+    .logo {
+      width: 150px;
+      padding: 20px 16px;
+    }
+  
+    h1 {
+      font-size: 1.5rem;
+      margin-left: 0;
+    }
+  }
